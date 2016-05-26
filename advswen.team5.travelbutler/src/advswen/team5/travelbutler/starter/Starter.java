@@ -8,7 +8,7 @@ public class Starter {
 
 		Search s = new Search();
 		s.search();
-		
+		System.out.println("Hallo Welt");
 	}
 
 }
