@@ -10,6 +10,8 @@
    
 package informationbutler.search;
 
+import advswen.team5.strategy.ConcreteStrategyFoo;
+
 public class SearchRequest {
 	private String requestString;
 	private GrainEnum grain = GrainEnum.foo;

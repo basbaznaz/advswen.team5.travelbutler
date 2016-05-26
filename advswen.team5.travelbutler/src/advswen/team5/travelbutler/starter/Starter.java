@@ -1,14 +1,12 @@
 package advswen.team5.travelbutler.starter;
 
-import informationbutler.search.Search;
+import informationbutler.search.SearchRequest;
 
 public class Starter {
 
 	public static void main(String[] args) {
-
-		Search s = new Search();
-		s.search();
-		
+		SearchRequest request = new SearchRequest("Huhutest test");
+		System.out.println(request.search());
 	}
 
 }

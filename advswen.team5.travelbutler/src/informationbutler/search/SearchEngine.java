@@ -10,6 +10,9 @@
    
 package informationbutler.search;
 
+import advswen.team5.strategy.ConcreteStrategyBasic;
+import advswen.team5.strategy.ISearchStrategy;
+
 public class SearchEngine {
 	private ISearchStrategy _searchstrategy;
 	

@@ -7,7 +7,7 @@
 //Description: 	Klasse für die Beschaffung von Informationen durch eine API
 //				
 //**************************************************************************************
-package informationbutler.search;
+package advswen.team5.api;
 
 public class APIContainerFoo2 implements IAPIContainer {
 
