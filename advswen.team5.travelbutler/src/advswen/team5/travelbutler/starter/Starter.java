@@ -9,8 +9,6 @@ public class Starter {
 		Search s = new Search();
 		s.search();
 		
-		//test
-		
 	}
 
 }
